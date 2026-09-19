@@ -4,8 +4,6 @@
 
 A curated list of badminton video analysis, match analysis, datasets, and automatic video clipping projects.
 
-For bilingual README navigation on GitHub, keep the default English entry as `readme.md`, create a translated `readme.zh-CN.md`, and add language links at the top of both files. Keeping two files avoids making one README too long while still giving readers a simple language switch.
-
 ## Contents
 
 * [Easy Start](#easy-start)
